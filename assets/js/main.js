@@ -4,7 +4,7 @@ var userMail = prompt("Write your email to login");
 
 //genero un array di email
 
-/* var mailArray = ["red@colors.com", "blue@colors.com", "green@colors.com", "yellow@colors.com", "purple@colors.com", "brown@colors.it"]; */
+var mailArray = ["red@colors.com", "blue@colors.com", "green@colors.com", "yellow@colors.com", "purple@colors.com", "brown@colors.it"];
 
 //verifco se la mail inserita dall'utente è nella mia lista
 
