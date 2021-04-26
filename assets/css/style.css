@@ -1,0 +1,48 @@
+#msg {
+    text-align: center;
+}
+
+#letsplay {
+    text-align: center;
+    color: red;
+}
+
+#rolls {
+    display: flex;
+    justify-content: center;
+}
+
+.roll {
+    width: 300px;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dice {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    border: 3px solid black;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    margin-top: 3rem;
+    border-radius: 9px;
+
+}
+
+#result {
+    text-transform: uppercase;
+    padding-top: 5rem;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+#retry {
+    text-align: center;
+    font-size: 0.8rem;
+}
